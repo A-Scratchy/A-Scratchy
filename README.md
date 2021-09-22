@@ -1,6 +1,8 @@
 # Scratchy :-)
 
-Hi, i'm scratchy and I love to develop accross the whole stack using a range of tech
+Hi, i'm scratchy. I like to code and create stuff.
+
+I mainly work with dotnet and react.
 
 <!---
 A-Scratchy/A-Scratchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
